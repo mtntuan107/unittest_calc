@@ -1,0 +1,10 @@
+D:\Calculator_92_NTuan\Calculator_92_NTuan\bin\Debug\Calculator_92_NTuan.exe.config
+D:\Calculator_92_NTuan\Calculator_92_NTuan\bin\Debug\Calculator_92_NTuan.exe
+D:\Calculator_92_NTuan\Calculator_92_NTuan\bin\Debug\Calculator_92_NTuan.pdb
+D:\Calculator_92_NTuan\Calculator_92_NTuan\obj\Debug\Calculator_92_NTuan.csproj.AssemblyReference.cache
+D:\Calculator_92_NTuan\Calculator_92_NTuan\obj\Debug\Calculator_92_NTuan.Properties.Resources.resources
+D:\Calculator_92_NTuan\Calculator_92_NTuan\obj\Debug\Calculator_92_NTuan.csproj.GenerateResource.cache
+D:\Calculator_92_NTuan\Calculator_92_NTuan\obj\Debug\Calculator_92_NTuan.csproj.CoreCompileInputs.cache
+D:\Calculator_92_NTuan\Calculator_92_NTuan\obj\Debug\Calculator_92_NTuan.exe
+D:\Calculator_92_NTuan\Calculator_92_NTuan\obj\Debug\Calculator_92_NTuan.pdb
+D:\Calculator_92_NTuan\Calculator_92_NTuan\obj\Debug\Calculator_92_NTuan.Form1.resources
